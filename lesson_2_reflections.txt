@@ -42,3 +42,10 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+	If it's really obvious which code should be kept and which should be 
+	deleted and that Git can work this out, then it makes sense for Git to do
+	it as it saves time because it's doing work for you.  However, if it is
+	in any doubt, then it makes you do ti manually, which is good because it
+	might show up where there might be a conflict which needs more thought
+	and work to resolve. 
