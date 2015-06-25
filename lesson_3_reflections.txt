@@ -13,3 +13,15 @@ automatically stay up-to-date with your remote repository?
 	you're not expecting, as in someone else might be working on the project as
 	well and you don't want their changes suddenly happening to your version
 	while you're working on it.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	Fork: when you want to make a copy of another person's repository on GitHub
+	either so you can make changes to keep for yourself which will not affect the
+	original authors, or if you just don't have permission to make changes to
+	their repository.
+
+	Clone: when you want to make a copy of a repository, either from GitHub to 
+	your local machine, or your local machine to another part of your local machine.
+
+	
