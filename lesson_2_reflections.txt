@@ -21,6 +21,12 @@ change?
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+	When trying out a new feature, or making an easier version of the game to 
+	make debugging easier.  If you have a published version, you might be 
+	working on installing new features, but you also find that the current 
+	version has a few bugs in it which you want to fix straightaway. Branches
+	would enable you to put the new features on hold while you fix the bugs.
+
 How do the diagrams help you visualize the branch structure?
 
 What is the result of merging two branches together? Why do we represent it in
