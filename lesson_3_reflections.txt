@@ -36,3 +36,13 @@ locally?
 	So you can use git log & git diff to see what changes have been made and to 
 	compare it to your local version so as to resolve any conflicts.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	You'd have to do it either face to face or via emailing messages, questions and 
+	sections of code.  That would be a royal pain in the bum and not as fail-safe as 
+	using a version control system such as Git and GitHub.  However, if the other 
+	person is right there in the same office as you and you can both sit down and
+	look at the code together, you might come up with solutions much quicker.  I 
+	guess GitHub is best for collaborators who are separate in space and/or time.
+
+	
