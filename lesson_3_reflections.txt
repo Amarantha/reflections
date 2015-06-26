@@ -45,4 +45,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	look at the code together, you might come up with solutions much quicker.  I 
 	guess GitHub is best for collaborators who are separate in space and/or time.
 
-	
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	When working on something new or experimental or that you want some collaboration
+	from others on.  It means you can keep changes separate until they are ready
+	for release.	
